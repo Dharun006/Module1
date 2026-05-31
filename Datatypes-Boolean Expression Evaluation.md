@@ -16,14 +16,18 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```python
-char1='T'
-char2='a'
-print(char1)
-print(char2)
+a=(0==True)
+b=(False==False)
+c=True+True
+d=False+9
+print(f"a is {a}")
+print(f"b is {b}")
+print(f"c: {c}")
+print(f"d: {d}")
 ```
 ## Output
-<img width="951" height="250" alt="image" src="https://github.com/user-attachments/assets/4dbae6aa-0051-4d31-bcd2-3dc4c7aed54b" />
+<img width="1112" height="283" alt="image" src="https://github.com/user-attachments/assets/95152832-733f-434d-acc1-c13e138dca34" />
 
 
 ## Result
-Therefore to write a Python program that prints the characters 'T' and 'a' using character literals is compiled and the output is verified successfully.
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
